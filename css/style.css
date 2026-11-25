@@ -81,3 +81,4 @@ dialog h3{margin-bottom:14px;font-size:1.4rem}dialog p{color:var(--t2);margin-bo
 }
 @media(max-width:560px){.cards{grid-template-columns:1fr}.fgrid{grid-template-columns:1fr}.chip{font-size:.8rem;padding:9px 12px}.c3{display:none}}
 @media(prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important}html{scroll-behavior:auto}.js .reveal{opacity:1;transform:none}}
+[hidden]{display:none!important}
