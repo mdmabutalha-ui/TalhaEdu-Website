@@ -1,6 +1,6 @@
 /* ===== SITE SETTINGS: add your real links here. Empty = hidden. ===== */
 const CONFIG = {
-  email: "",      // e.g. "yourname@gmail.com"
+  email: "tmtalhaedu@gmail.com",      // e.g. "yourname@gmail.com"
   social: []      // e.g. [{name:"GitHub", url:"https://github.com/yourname"}]
 };
 /* ==================================================================== */
